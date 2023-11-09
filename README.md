@@ -1,7 +1,8 @@
 # PySerial-MCU-Communicator
 This is designed to facilitate real-time communication between a computer and a microcontroller using the PySerial library. 
 
-It is currently only operational on the ESP32 however currently working on HAL UART commands for ARM mBed dev.
+It is currently only operational on the ESP32 with Arduino. 
+Currently working on HAL UART commands for ARM mBed dev with the STM32 NUCLEO-F411RE & STM32L475 .
 
 ### Running the communicator:
 1)  ```
